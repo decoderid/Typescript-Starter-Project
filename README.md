@@ -1,6 +1,6 @@
 # TYPESCRIPT STARTER
 ```bash
-$ npm install
+$ yarn
 ```
 
 ## CODE
